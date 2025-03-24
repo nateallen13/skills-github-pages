@@ -1,6 +1,7 @@
 ---
 title: Welcome to my portfolio!
 ---
+# ![My Profile Picture](_pics/MDPPicture.jpg) Welcome to My GitHub Portfolio! 🚀
 
 # 🌊 Welcome to My GitHub Portfolio! 🚀
 
