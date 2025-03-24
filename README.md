@@ -13,45 +13,57 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+# 🌊 Welcome to My GitHub Portfolio! 🚀
 
-## Finish
+## About Me
+Hi! I'm [Your Name], a **Power Platform Developer & Data Analyst** passionate about building low-code/no-code solutions using **PowerApps, Power Automate, Power BI, and SharePoint**. I specialize in creating user-friendly applications that optimize workflows and drive business efficiency.
 
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+I am currently working on:
+- 🛶 **Kayak Rental Business App** (Demo PowerApps Portfolio)
+- 🏆 **Showcasing Power BI Dashboards & Data Insights**
+- ⚡ **Building Automated Workflows with Power Automate**
+- 🌐 **Creating a Power Pages Portfolio Website**
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🔥 Skills & Tools
+- **Microsoft Power Platform**
+  - PowerApps (Canvas & Model-driven)
+  - Power Automate (Flow automation)
+  - Power BI (Data Visualization)
+  - Power Pages (Website development)
+- **Data Management & Integration**
+  - SharePoint Lists & Dataverse
+  - JSON, API Integration
+  - SQL & Excel Automation
+- **Other Technologies**
+  - GitHub, Markdown, HTML/CSS
+  - Agile & Project Management
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+---
 
-</footer>
+## 🏆 Featured Projects
+
+### 🚣 Kayak Rental Business App
+🔗 [Demo Coming Soon](#)  
+A PowerApps solution simulating a **kayak rental booking system**, featuring:
+✅ Customer & rental management  
+✅ Automated email notifications via Power Automate  
+✅ Embedded Power BI dashboard for insights  
+
+### 📊 Power BI Dashboards  
+🔗 [View Dashboards](#)  
+Interactive dashboards showcasing **data analysis & visualization**.  
+
+### ⚡ Power Automate Workflows  
+🔗 [See Automations](#)  
+Workflows for automating **business processes & approvals**.
+
+---
+
+## 📬 Connect with Me
+💼 [LinkedIn](#)  
+🌐 [Portfolio Site (Coming Soon)](#)  
+📧 [Email Me](mailto:your.email@example.com)  
+
+Let's collaborate and build something awesome! 🚀
