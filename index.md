@@ -3,8 +3,6 @@ title: Welcome to my portfolio!
 ---
 # ![My Profile Picture](_pics/MDPPicture.jpg) Welcome to My GitHub Portfolio! 🚀
 
-# 🌊 Welcome to My GitHub Portfolio! 🚀
-
 ## About Me
 Hi! I'm [Your Name], a **Power Platform Developer & Data Analyst** passionate about building low-code/no-code solutions using **PowerApps, Power Automate, Power BI, and SharePoint**. I specialize in creating user-friendly applications that optimize workflows and drive business efficiency.
 
